@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning FLUTTER Development
 + ⚡ Fun fact always learning
 
-# Example headings 
+# Samples from my projects 
 
 ## Sample Section
 
