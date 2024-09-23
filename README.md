@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter Developer**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18_LkPEfN6PDTMt67BwrG0uLYyaQI6ucM/view?usp=drivesdk](https://drive.google.com/file/d/18_LkPEfN6PDTMt67BwrG0uLYyaQI6ucM/view?usp=drivesdk)
+- 📫 How to reach me **yasmynjad53@gmail.com**
 
 - ⚡ Fun fact **always learning**
 
