@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Flutter Developer**
 
-- 📫 How to reach me **yasmynjad53@gmail.com**
-
 - ⚡ Fun fact **always learning**
 
 <h3 align="left">Connect with me:</h3>
