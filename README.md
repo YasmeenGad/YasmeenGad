@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasmeen</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 
-- 🌱 I’m currently learning **Flutter Developer**
+- 🌱 I’m currently learning **FLUTTER Development**
 
 - ⚡ Fun fact **always learning**
 
