@@ -23,32 +23,48 @@ Feel free to explore my repositories and reach out if you have any ideas or coll
 
 ### Technologies and Tools
 
-- **State Management:** Proficient in using state management solutions like `Bloc`, `Provider`, and `Riverpod` to build scalable and maintainable Flutter applications.
-  
-- **Firebase:** Experienced in integrating Firebase services such as **Authentication**, **Firestore**, **Firebase Storage** for media handling, and **Cloud Messaging** for push notifications.
+- **State Management:**
+  - Expertise in implementing **state management** techniques like `BLoC`, `Provider`, and `Riverpod`, ensuring clean architecture and efficient app state handling.
+  - Adept at **Reactive Programming** using streams, allowing for a more scalable, performant, and organized approach to managing app states.
 
-- **Flutter UI Design:** Skilled in designing professional and flexible user interfaces using Flutter's **Widgets** and custom UI components.
+- **Firebase Integration:**
+  - Proficient in integrating various **Firebase** services, including:
+    - **Firebase Authentication** for secure user login and registration.
+    - **Cloud Firestore** and **Realtime Database** for scalable, real-time data storage and sync.
+    - **Firebase Cloud Messaging (FCM)** for seamless push notifications.
 
-- **Navigation & Routing:** Implement advanced navigation systems using `Navigator 2.0` and `GoRouter` to enable complex screen transitions.
+- **Backend and API Integration:**
+  - Skilled in **RESTful API integration** using **Dio**, **http** libraries to communicate with backend services.
+  - Efficient at parsing and serializing JSON, error handling, and token-based authentication (OAuth2 / JWT).
 
-- **App Testing:** Perform **Unit Testing** and **Widget Testing** to ensure the quality and reliability of applications.
+- **Local Data Storage:**
+  - Strong knowledge in using **local storage solutions** like `SharedPreferences`, `Hive`, and `SQLite` for persistent data.
+  - Experience in implementing **data caching** to enhance app performance and ensure a smoother offline experience.
 
-- **Local Storage:** Use `SharedPreferences` and `Hive` for local data storage to enhance app performance and user experience.
+- **UI/UX Design & Customization:**
+  - Advanced proficiency in **Flutter UI Design** and building pixel-perfect, responsive UIs from scratch based on design systems in **Figma** and **Adobe XD**.
+  - Expertise in creating custom **UI Widgets**, animations, and transitions that elevate user experience.
+  - Knowledge of implementing **Material Design** principles and iOS **Cupertino widgets** for cross-platform consistency.
 
-- **API Integration:** Proficient in integrating RESTful APIs using **Dio** or **http** and handling JSON responses for data processing.
+- **Navigation & Routing:**
+  - Proficient in utilizing **Navigator 2.0** and **GoRouter** for dynamic routing and deep linking.
 
-- **Performance Optimization:** Implement performance optimization techniques like **Lazy Loading** and graphics improvements to ensure a smooth user experience.
+- **Version Control & Collaboration:**
+  - Extensive experience with **Git**, GitHub.
+  - Strong collaboration skills working with cross-functional teams including designers, backend engineers.
+
+- **Third-Party Integrations:**
+  - Experienced in integrating various third-party services such as **Stripe** and **PayPal** for secure payment gateways.
 
 ---
 
 ### Additional Tools I Work With:
 
-- **Git & GitHub:** For version control and collaborative development.
-- **Postman:** To test and validate API endpoints.
-- **Figma:** Collaborating with designers and converting designs into functional UI components.
-- **VS Code / Android Studio:** Integrated development environments for writing, running, and optimizing Flutter applications.
-  
----
+- **Git & GitHub:** Effective source control, branch management, and collaborative development practices.
+- **Postman:** For testing and validating API endpoints during backend integration.
+- **Figma / Adobe XD:** Collaboration with UI/UX designers, transforming designs into interactive and responsive mobile applications.
+- **Jira:** Agile project management for organizing tasks, sprint planning, and tracking project progress.
+- **VS Code / Android Studio:** Mastery over integrated development environments for coding, testing, debugging, and profiling.
 
 ### Languages and Tools
 
