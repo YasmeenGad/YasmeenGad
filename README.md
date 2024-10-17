@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasmeen</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 
-<p align="center">Welcome to My Profile!</p>
+### Flutter Developer:
 
 <p align="center">Hello and welcome! I'm Yasmeen, a dedicated and passionate Flutter developer always striving to build cutting-edge mobile applications. My journey in the world of development started with curiosity, and over time, I’ve honed my skills to turn ideas into reality using the latest technologies.</p>
 
