@@ -21,6 +21,35 @@ Feel free to explore my repositories and reach out if you have any ideas or coll
 
 ---
 
+### Technologies and Tools
+
+- **State Management:** Proficient in using state management solutions like `Bloc`, `Provider`, and `Riverpod` to build scalable and maintainable Flutter applications.
+  
+- **Firebase:** Experienced in integrating Firebase services such as **Authentication**, **Firestore**, **Firebase Storage** for media handling, and **Cloud Messaging** for push notifications.
+
+- **Flutter UI Design:** Skilled in designing professional and flexible user interfaces using Flutter's **Widgets** and custom UI components.
+
+- **Navigation & Routing:** Implement advanced navigation systems using `Navigator 2.0` and `GoRouter` to enable complex screen transitions.
+
+- **App Testing:** Perform **Unit Testing** and **Widget Testing** to ensure the quality and reliability of applications.
+
+- **Local Storage:** Use `SharedPreferences` and `Hive` for local data storage to enhance app performance and user experience.
+
+- **API Integration:** Proficient in integrating RESTful APIs using **Dio** or **http** and handling JSON responses for data processing.
+
+- **Performance Optimization:** Implement performance optimization techniques like **Lazy Loading** and graphics improvements to ensure a smooth user experience.
+
+---
+
+### Additional Tools I Work With:
+
+- **Git & GitHub:** For version control and collaborative development.
+- **Postman:** To test and validate API endpoints.
+- **Figma:** Collaborating with designers and converting designs into functional UI components.
+- **VS Code / Android Studio:** Integrated development environments for writing, running, and optimizing Flutter applications.
+  
+---
+
 ### Languages and Tools
 
 <p align="left">
