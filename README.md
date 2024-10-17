@@ -24,7 +24,7 @@ Feel free to explore my repositories and reach out if you have any ideas or coll
 ### Technologies and Tools
 
 - **State Management:**
-  - Expertise in implementing **state management** techniques like `BLoC`, `Provider`, and `Riverpod`, ensuring clean architecture and efficient app state handling.
+  - Expertise in implementing **state management** techniques like `BLoC` and `Provider` ensuring clean architecture and efficient app state handling.
   - Adept at **Reactive Programming** using streams, allowing for a more scalable, performant, and organized approach to managing app states.
 
 - **Firebase Integration:**
