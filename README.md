@@ -3,8 +3,6 @@
 ## <p align="center">Flutter Developer | Python Coding Instructor</p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Yasmeen%20Gad-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmeen-gad/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Yasmeen%20Gad-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YasmeenGad)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Yasmeen%20Gad-black?style=flat&logo=github&logoColor=white)](https://github.com/YasmeenGad)
 
 I'm a **Flutter Developer** with a passion for building scalable mobile applications that provide smooth and efficient user experiences. I have experience in both **iOS** and **Android** platforms, leveraging the power of **Flutter** and **Dart**. I'm always eager to learn new technologies and continuously improve my skills.
 
