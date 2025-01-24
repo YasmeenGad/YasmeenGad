@@ -36,8 +36,9 @@ I'm a **Flutter Developer** with a passion for building scalable mobile applicat
 ### 📈 GitHub Contributions
 ![Yasmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasmeenGad&show_icons=true&count_private=true&theme=radical)
 
-### 💥 Total Contributions
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YasmeenGad&theme=radical)
+### 🌟 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmeenGad&layout=compact&theme=radical&hide=css,html)
+
 
 ---
 
