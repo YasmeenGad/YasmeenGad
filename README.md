@@ -1,114 +1,60 @@
-<h1 align="center">Hi 👋, I'm Yasmeen</h1>
-<h3 align="center">A Passionate Flutter Developer</h3>
+# Hey 👋, I'm Yasmeen Gad
 
----
+## <p align="center">**Flutter Developer | Python Coding Instructor**</p>
 
-### About Me
+![Flutter](https://img.shields.io/badge/Flutter-%20%F0%9F%8C%B3-blue)
+![Dart](https://img.shields.io/badge/Dart-%20%F0%9F%8C%8E-0175C2)
+![Python](https://img.shields.io/badge/Python-%20%F0%9F%8C%8E-blue)
+![GitHub followers](https://img.shields.io/github/followers/YasmeenGad?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/YasmeenGad?affiliations=OWNER&style=social)
 
-Hello and welcome! I'm Yasmeen, a dedicated Flutter developer committed to crafting innovative and high-quality mobile applications. My journey into development began with a deep curiosity, leading me to acquire and refine skills that transform ideas into functional and user-friendly technologies.
+## 📍 About Me
 
-### Current Focus
+I'm a **Flutter Developer** with a passion for building scalable mobile applications that provide smooth and efficient user experiences. I have worked on both **iOS** and **Android** platforms, leveraging the power of **Flutter** and **Dart**. I am always eager to learn new technologies and continuously enhance my skills.
 
-- **Cross-Platform Development:** Building modern, cross-platform mobile applications using Flutter and Dart.
-- **Advanced Flutter Features:** Exploring state management with BLoC and creating custom UI components to enhance user experience.
-- **Continuous Learning:** Regularly updating my knowledge base with new libraries and tools to optimize performance and stay abreast of industry trends.
+## 🛠️ Technologies & Tools
 
-### Mission Statement
-
-To design and develop beautiful, scalable, and responsive mobile applications that address real-world challenges, continually expanding the horizons of what's achievable with Flutter.
-
-Feel free to explore my repositories and reach out if you have any ideas or collaboration opportunities. Let's work together to build something remarkable!
-
----
-
-### Technologies and Tools
-
-- **State Management:**
-  - Expertise in implementing **state management** techniques like `BLoC` and `Provider` ensuring clean architecture and efficient app state handling.
-  - Adept at **Reactive Programming** using streams, allowing for a more scalable, performant, and organized approach to managing app states.
-
-- **Firebase Integration:**
-  - Proficient in integrating various **Firebase** services, including:
-    - **Firebase Authentication** for secure user login and registration.
-    - **Cloud Firestore** and **Realtime Database** for scalable, real-time data storage and sync.
-    - **Firebase Cloud Messaging (FCM)** for seamless push notifications.
-
-- **Backend and API Integration:**
-  - Skilled in **RESTful API integration** using **Dio**, **http** libraries to communicate with backend services.
-  - Efficient at parsing and serializing JSON, error handling, and token-based authentication (OAuth2 / JWT).
-
-- **Local Data Storage:**
-  - Strong knowledge in using **local storage solutions** like `SharedPreferences`, `Hive`, and `SQLite` for persistent data.
-  - Experience in implementing **data caching** to enhance app performance and ensure a smoother offline experience.
-
-- **UI/UX Design & Customization:**
-  - Advanced proficiency in **Flutter UI Design** and building pixel-perfect, responsive UIs from scratch based on design systems in **Figma** and **Adobe XD**.
-  - Expertise in creating custom **UI Widgets**, animations, and transitions that elevate user experience.
-  - Knowledge of implementing **Material Design** principles and iOS **Cupertino widgets** for cross-platform consistency.
-
-- **Navigation & Routing:**
-  - Proficient in utilizing **Navigator 2.0** and **GoRouter** for dynamic routing and deep linking.
-
-- **Version Control & Collaboration:**
-  - Extensive experience with **Git**, GitHub.
-  - Strong collaboration skills working with cross-functional teams including designers, backend engineers.
-
-- **Third-Party Integrations:**
-  - Experienced in integrating various third-party services such as **Stripe** and **PayPal** for secure payment gateways.
-
----
-
-### Additional Tools I Work With:
-
-- **Git & GitHub:** Effective source control, branch management, and collaborative development practices.
-- **Postman:** For testing and validating API endpoints during backend integration.
-- **Figma / Adobe XD:** Collaboration with UI/UX designers, transforming designs into interactive and responsive mobile applications.
-- **Jira:** Agile project management for organizing tasks, sprint planning, and tracking project progress.
-- **VS Code / Android Studio:** Mastery over integrated development environments for coding, testing, debugging, and profiling.
-
-### Languages and Tools
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+### 💻 Programming Languages & Frameworks:
+<p align="start">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="background-color:#25B7F3; padding: 10px; border-radius: 10px;"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" style="background-color:#0175C2; padding: 10px; border-radius: 10px;"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="background-color:#FFCA28; padding: 10px; border-radius: 10px;"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" style="background-color:#E535AB; padding: 10px; border-radius: 10px;"/></a>
 </p>
+
+### ⚙️ Tools & DevOps:
+<p align="start">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="background-color:#F05032; padding: 10px; border-radius: 10px;"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" style="background-color:#333; padding: 10px; border-radius: 10px;"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40" style="background-color:#1C1C1C; padding: 10px; border-radius: 10px;"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastlane/fastlane-original.svg" alt="Fastlane" width="40" height="40" style="background-color:#F1C40F; padding: 10px; border-radius: 10px;"/></a>
+</p>
+
+### 🔧 Other Skills:
+- **Testing**: Unit Testing, Widget Testing, Integration Testing
+- **CI/CD**: GitHub Actions, Jenkins
+
+## 📊 GitHub Stats
+
+### 📈 GitHub Contributions
+![Yasmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasmeenGad&show_icons=true&count_private=true&theme=radical)
+
+### 💥 Total Contributions
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YasmeenGad&theme=radical)
+
+## 🏆 Achievements
+
+- **Bachelor of Science in Computer Science – Faculty of Computers and Artificial Intelligence, Egypt**  
+  Currently an undergraduate, with a solid foundation in computer science and artificial intelligence, passionate about technology and innovation.
+
+- **Advanced Skills in Mobile Development**  
+  Developed advanced skills in **Clean Architecture**, **State Management (BLoC/Cubit)**, **API Integration**, and **Unit Testing**, adhering to **SOLID principles**.
+
+- **Proficient in Development Tools**  
+  Gained expertise in using tools like **GitHub**, **Figma**, **Jira**, **Slack**, and working within the **SCRUM methodology** for high-quality, scalable mobile app development.
+
+- **API Integration Experience**  
+  Contributed to the integration of **RESTful APIs** for fetching and displaying data, improving app functionality and user experience.
+
+- **Collaborative Development**  
+  Actively participated in **Code Reviews**, ensuring best practices, maintaining code quality, and enhancing team collaboration.
