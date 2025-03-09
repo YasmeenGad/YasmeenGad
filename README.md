@@ -1,6 +1,6 @@
 # <p align="center">Hey 👋, I'm Yasmeen Gad</p>
 
-## <p align="center">Flutter Developer | Python Coding Instructor</p>
+## <p align="center">Flutter Developer | Coding Instructor</p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Yasmeen%20Gad-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasmin-gad-252316287)
 
